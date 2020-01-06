@@ -1,0 +1,104 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais de Documentario",Animal planet HD
+https://s06.upstream.to/hls/o2up3ixnqiysmvk4xr5cu4f4bpmm7naesaexz2lu6zi5t7hsvmbtf2ukrvra/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais de Documentario",Animal planet SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_6ec9fb5cad2e89c24534257a44d15c66f15e7843/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="Canais de Documentario",NetGeo Wild HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="Canais de Documentario",NetGeo Wild SD
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/172.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo-2.png" group-title="Canais de Documentario",NetGeo HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-channel-logo-2.png" group-title="Canais de Documentario",NetGeo SD
+https://live.multicanais.com/live/natsd/video.m3u8?md5=ZORkSgdJKEqVkJKyfvce1g&expires=1578062961
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Canais de Documentario",Discovery Turbo HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Canais de Documentario",Discovery Turbo SD
+https://live.multicanais.com/live/discoveryturbosd/video.m3u8?md5=QLR9yCwPJqkCUGdUI4uG_A&expires=1578063341
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais de Sports",Fox Sports HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais de Sports",Fox Sports SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_3fbdc03b378ef3001985461826f4fd09c3900e73/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/assets/imagenes/television/logos/FOXSPORT2.png" group-title="Canais de Sports",Fox Sports2 HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/assets/imagenes/television/logos/FOXSPORT2.png" group-title="Canais de Sports",Fox Sports2 SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_f741ea6768129b82920ad0e599190c22c639d41c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="Canais de Sports",Sportv HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="Canais de Sports",Sportv SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_77c3dfabe0a550ae74c498d821d25ad090c371e9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA" group-title="Canais de Sports",Sportv2 HD
+https://live.multicanais.com/mylive/sportv2hd/video.m3u8?md5=TkswOYM094QTp2d8gEYGRw&expires=1578063929
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA" group-title="Canais de Sports",Sportv2 SD
+https://live.multicanais.com/mylive/sportv2sd/video.m3u8?md5=cGB2J7DWMCQZB438LEkusA&expires=1578063963
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" group-title="Canais de Sports",Premiere Clubes
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" group-title="Canais de Sports",Premiere 2
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" group-title="Canais de Sports",Premiere 3
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" group-title="Canais de Sports",Premiere 4
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNTHg_WrhRE6H5VqrG4Y69iz_9zMp-tUFkmqr8w5i1r9bYmitw" group-title="Canais infantis",Cartoon HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNTHg_WrhRE6H5VqrG4Y69iz_9zMp-tUFkmqr8w5i1r9bYmitw" group-title="Canais infantis",Cartoon SD
+https://live.multicanais.com/mylive/cartoonnetworksd/video.m3u8?md5=_0dgA5kstUspP-kQa8uD0g&expires=1578064135
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Canais infantis",Tooncast HD
+https://live.multicanais.com/live/tooncastsd/video.m3u8?md5=23mFEfxSJAqdIoDDzRQFtA&expires=1578064322
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Canais infantis",Tooncast SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_e8f0a560cc14ddd86105ffaf0e45ab76e3d7bb39/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Canais infantis",Disney XD HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Canais infantis",Disney XD SD
+https://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Canais infantis",Boomerang HD
+https://d3v1dieo3w7nem.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Canais infantis",Boomerang SD
+https://live.multicanais.com/live/boomerangsd/video.m3u8?md5=-u20-GBa0KHc1kEimtsCEg&expires=1578064565
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Canais Aberto",SBT HD
+https://r2---sn-5cnva0uoxu-cnce.googlevideo.com/videoplayback?expire=1578026264&ei=uHAOXqeDMbmFobIPlNKfgA0&ip=131.108.91.159&id=i4pHalUONcY.0&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-5cnva0uoxu-cnce%2Csn-bg07dnze&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=466250&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1578004585&fvip=2&keepalive=yes&fexp=23842630%2C23860862&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRgIhAIpsfCvVMYsMoMABw2vSgHMShen3JQ9-Z8w6DKAw5H1sAiEAyViUTKL_klquj9GGbjLGLChZFVj8raUs6Dr6VsgqSug%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhANBs9dI69lR3CHfChOCANeXO-dys7pkv_CMmYmcAjChkAiEA83VVyN54JlK9AtyLPkXdiB0la2Vna5WMMU9pveQUj5g%3D
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Canais Aberto",SBT SD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_af0467ac77500a5d66fa261a666dbc7c1ae8d8c8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="Canais Aberto",Globo HD
+https://d1o1wb2vsn7ozj.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png" group-title="Canais Aberto",Globo SD
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais Aberto",Redetv HD
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w873915107.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais Aberto",Redetv SD
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/redetv_45cbe19f_bf4d2633605e2f14b1f9b3c0142c329c53265074/270p/chunklist.m3u8

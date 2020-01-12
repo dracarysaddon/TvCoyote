@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais de Documentario",Animal planet HD
-https://s06.upstream.to/hls/o2up3ixnqiysmvk4xr5cu4f4bpmm7naesaexz2lu6zi5t7hsvmbtf2ukrvra/index-v1-a1.m3u8
+https://cdn.jsdelivr.net/gh/diretoriofree/SW5mZXJub19OYV9Gcm9udGVpcmFfMjAxOV8xMDgwUF9EdWJsYWRvLm1wNA@b6696f2c2933ff4063267d6e5c9f154494315108/_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Canais de Documentario",Animal planet SD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_6ec9fb5cad2e89c24534257a44d15c66f15e7843/playlist.m3u8
